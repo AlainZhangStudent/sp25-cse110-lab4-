@@ -13,4 +13,5 @@
 13.  a. '32', b. 1, c. 3, d. '3null', e. 4, f. 0, g. '3undefined', h. NaN
 14.  a. true, b. false, c. true, d. false, e. false, f. true
 15.  The difference is that == compares the value whilst === compares the value and the type
-16.  
+16.  [part2-question16.js](https://github.com/AlainZhangStudent/sp25-cse110-lab4-/blob/main/expose/javascript/part2-question16.js)
+17.  

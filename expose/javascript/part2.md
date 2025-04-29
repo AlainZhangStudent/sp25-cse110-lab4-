@@ -14,4 +14,5 @@
 14.  a. true, b. false, c. true, d. false, e. false, f. true
 15.  The difference is that == compares the value whilst === compares the value and the type
 16.  [part2-question16.js](https://github.com/AlainZhangStudent/sp25-cse110-lab4-/blob/main/expose/javascript/part2-question16.js)
-17.  
+17.  modifyArray is called with an argument for list [1,2,3] and argument for function that multiplies its own argument by two. then in modifyArray func it iterates through array, pushing into the newArr the elements in list [1,2,3] into callback, which multiplies them by 2, so [2,4,6] is sent to newArr and returned as such.
+18.  [part2-question18.js](https://github.com/AlainZhangStudent/sp25-cse110-lab4-/blob/main/expose/javascript/part2-question18.js)
